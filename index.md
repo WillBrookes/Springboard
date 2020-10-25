@@ -1,2 +1,2 @@
 <h1>Please see list below for context capure information</h1>
-permalink: https://willbrookes.github.io/Springboard/ContextCapture/App/index.html#%2F
+permalink: /App/index.html
